@@ -1,0 +1,93 @@
+KSAT
+Software Version	1.3.22
+Firmware Version	1.4
+Last setting of the zero point	1/01/0001
+Serial Number	0068
+
+File name	albon_156_001
+
+MEASUREMENT
+Mode	FallingHead
+Sample rate [s]	Auto
+Crown type	SteelMeshCrown
+Use Synthetic Data	True
+
+PARAMETERS
+OPERATION PARAMETERS
+H_end_abs [cm]	0,5	Hydraulic head difference at stop of measurement
+H_end_rel [-]	0,25	Relative hydraulic head (with respect to initial pressure head) to stop measurement	
+dH_min [cm]	0,1	Minimum hydraulic head difference for two successive readings	
+dH_ini [cm]	1	Required hydraulic head increase between two readings to trigger automatic start of measurement campaign	
+GEOMETRY PARAMETERS
+A_bur1 [cm²]	4,59	Standard burette cross-sectional area
+A_bur2 [cm²]	0,089	Burette extension internal cross-sectional area
+A_sample  [cm²]	50	Sample cross-sectional area	
+L_bur [cm]	22,5	Standard burette length	
+L_sample [cm]	5	Height of soil sample	
+L_plate_Bottom [cm]	0,8	Bottom porous plate height	
+L_plate_Top [cm]	0,3	Upper porous plate height	
+EVALUATION PARAMETERS
+T_ref [°C]	10	Reference temperature for K calculations
+K_plate [cm/d]	14000	Porous plate conductivity	
+Use Auto-Offset	True	Use auto offset correction for measured hydraulic head
+Max Auto-Offset [cm]	1	Max. value for auto offset correction
+Trigger Auto-Offset [cm]	1	Hydraulic head change after auto offset correction becomes active
+Start of measurement	7/12/2015 11:39:45
+Test duration	00:01:37
+
+RESULT
+Use auto offset adjustment	True
+Max offset adjustment [cm]	1
+Fitting Parameter a [cm]	6,18
+Fitting Parameter b [s-1]	-1,48E-02
+Fitting Parameter c [cm]	
+Fitting Parameter r2 [-]	0,9997
+Ks Total [cm/d]	683
+Ks Total [m/s]	7,94E-05
+Ks Soil [cm/d]	593
+Ks Soil [m/s]	6,89E-05
+Ks Soil normalized at 10,0 °C [cm/d]	438
+Ks Soil normalized at 10,0 °C [m/s]	5,09E-05
+
+DATA
+Date/Time	Runtime [s]	Pressure Head [cm]	Fitting [cm]	Temperature [°C]
+7/12/2015 11:39:45	718	-3,08	0,123	-99999,000	21,350
+7/12/2015 11:39:46	765	-2,03	0,105	-99999,000	21,350
+7/12/2015 11:39:47	781	-1,02	2,050	-99999,000	21,350
+7/12/2015 11:39:48	796	0,00	6,177	6,177	21,350
+7/12/2015 11:39:50	937	2,14	5,964	5,984	21,350
+7/12/2015 11:39:52	343	3,55	5,821	5,860	21,350
+7/12/2015 11:39:53	734	4,94	5,711	5,740	21,350
+7/12/2015 11:39:55	125	6,33	5,570	5,623	21,350
+7/12/2015 11:39:56	515	7,72	5,425	5,508	21,350
+7/12/2015 11:39:58	765	9,97	5,251	5,327	21,350
+7/12/2015 11:40:01	906	13,11	5,012	5,085	21,350
+7/12/2015 11:40:03	296	14,50	4,839	4,981	21,350
+7/12/2015 11:40:05	546	16,75	4,725	4,817	21,350
+7/12/2015 11:40:07	796	19,00	4,601	4,659	21,350
+7/12/2015 11:40:10	906	22,11	4,461	4,449	21,360
+7/12/2015 11:40:12	328	23,53	4,310	4,356	21,360
+7/12/2015 11:40:13	734	24,94	4,190	4,266	21,360
+7/12/2015 11:40:15	984	27,19	4,065	4,126	21,360
+7/12/2015 11:40:17	406	28,61	3,930	4,039	21,360
+7/12/2015 11:40:20	515	31,72	3,795	3,857	21,360
+7/12/2015 11:40:23	625	34,83	3,654	3,683	21,360
+7/12/2015 11:40:25	875	37,08	3,533	3,562	21,360
+7/12/2015 11:40:28	125	39,33	3,421	3,445	21,360
+7/12/2015 11:40:30	437	41,64	3,303	3,329	21,370
+7/12/2015 11:40:33	546	44,75	3,164	3,179	21,370
+7/12/2015 11:40:35	828	47,03	3,054	3,073	21,370
+7/12/2015 11:40:38	937	50,14	2,916	2,934	21,370
+7/12/2015 11:40:42	78	53,28	2,790	2,801	21,370
+7/12/2015 11:40:45	187	56,39	2,657	2,674	21,370
+7/12/2015 11:40:48	296	59,50	2,525	2,554	21,370
+7/12/2015 11:40:51	453	62,66	2,410	2,437	21,380
+7/12/2015 11:40:55	453	66,66	2,295	2,296	21,380
+7/12/2015 11:40:58	562	69,77	2,180	2,193	21,380
+7/12/2015 11:41:01	734	72,94	2,067	2,092	21,380
+7/12/2015 11:41:05	734	76,94	1,961	1,971	21,380
+7/12/2015 11:41:08	875	80,08	1,851	1,881	21,380
+7/12/2015 11:41:13	718	84,92	1,736	1,751	21,390
+7/12/2015 11:41:18	578	89,78	1,629	1,629	21,390
+7/12/2015 11:41:23	437	94,64	1,497	-99999,000	21,380
+

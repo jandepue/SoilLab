@@ -1,0 +1,45 @@
+Project	Test													
+Date	10/05/17													
+Collaborators	Jan	 Maarten												
+														
+Identification			Metadata					Analysis						Comments
+LabID	BatchID	RingID	MetaLabel1	MetaLabel2	MetaLabel3	MetaLabel4	MetaLabel5	SBPP	Permeameter	AirPermeability	UMS_Hyprop	UMS_Ksat	Texture	Comments
+17.054	1	654	Field1	Top	Head		654					1		
+17.054	1	321	Field1	Sub	Head		321					1		
+17.054	1	984	Field1	Top	Center		984					1		
+17.054	1	987	Field1	Sub	Center		987					1		
+17.054	1	549	Field1	Sub	Center		549					1		Repetition
+17.054	1	655	Field2	Top	Head		655					1		
+17.054	1	322	Field2	Sub	Head		322					1		
+17.054	1	985	Field2	Top	Center		985					1		
+17.054	1	550	Field2	Sub	Center		550					1		
+17.054	1	519	Field2	cSub	Head		519					1		
+17.054	1	983	Field2	cSub	Center		983					1		
+17.506	1	44	Field1	Sub	Head	K0	44				1			
+17.506	1	44	Field1	Sub	Head	KS	44				1			
+17.506	1	47	Field1	Top	Head	K0	47				1			
+17.506	1	47	Field1	Top	Head	KS	47				1			
+17.506	1	2791	Field2	cSub	Center	K0	2791				1			
+17.506	1	2791	Field2	cSub	Center	KS	2791				1			Broken
+17.506	1	2762	Field2	Sub	Center	K0	2762				1			
+17.506	1	2763	Field2	Sub	Center	K0	2763				1			
+17.506	1	2788	Field2	Top	Center	K0	2788				1			
+17.506	1	2788	Field2	Top	Center	KS	2788				1			
+17.506	1	2785	Field2	cSub	Head	K0	2785				1			
+17.506	1	2762	Field2	Sub	Center	KS	2762				1			
+17.506	1	2763	Field2	Sub	Center	KS	2763				1			
+17.506	1	2785	Field2	cSub	Head	KS	2785				1			
+17.013	1	15	Field1	Head			15	1						
+17.013	1	16	Field1	Head			16	1						
+17.013	1	17	Field1	Head			17	1						
+17.013	1	18	Field1	Head			18	1						
+17.013	1	19	Field1	Head			19	1						
+17.013	1	20	Field1	Head			20	1						Worm
+17.013	1	21	Field1	Head			21	1						
+17.013	1	22	Field1	Head			22	1						
+17.013	1	23	Field1	Head			23	1						
+17.013	1	24	Field1	Head			24	1						
+17.013	1	25	Field1	Center			25	1						
+17.013	1	26	Field1	Center			26	1						
+17.013	1	27	Field2	Head			27	1						
+17.013	1	28	Field2	Center			28	1						

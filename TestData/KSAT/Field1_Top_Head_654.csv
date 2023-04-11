@@ -1,0 +1,62 @@
+KSAT
+Software Version	1.3.22
+Firmware Version	1.4
+Last setting of the zero point	1/01/0001
+Serial Number	0068
+
+File name	albon_168_001
+
+MEASUREMENT
+Mode	FallingHead
+Sample rate [s]	Auto
+Crown type	SteelMeshCrown
+Use Synthetic Data	True
+
+PARAMETERS
+OPERATION PARAMETERS
+H_end_abs [cm]	0,5	Hydraulic head difference at stop of measurement
+H_end_rel [-]	0,25	Relative hydraulic head (with respect to initial pressure head) to stop measurement	
+dH_min [cm]	0,1	Minimum hydraulic head difference for two successive readings	
+dH_ini [cm]	1	Required hydraulic head increase between two readings to trigger automatic start of measurement campaign	
+GEOMETRY PARAMETERS
+A_bur1 [cm²]	4,59	Standard burette cross-sectional area
+A_bur2 [cm²]	0,089	Burette extension internal cross-sectional area
+A_sample  [cm²]	50	Sample cross-sectional area	
+L_bur [cm]	22,5	Standard burette length	
+L_sample [cm]	5	Height of soil sample	
+L_plate_Bottom [cm]	0,8	Bottom porous plate height	
+L_plate_Top [cm]	0,3	Upper porous plate height	
+EVALUATION PARAMETERS
+T_ref [°C]	10	Reference temperature for K calculations
+K_plate [cm/d]	14000	Porous plate conductivity	
+Use Auto-Offset	True	Use auto offset correction for measured hydraulic head
+Max Auto-Offset [cm]	1	Max. value for auto offset correction
+Trigger Auto-Offset [cm]	1	Hydraulic head change after auto offset correction becomes active
+Start of measurement	4/12/2015 8:51:09
+Test duration	02:07:22
+
+RESULT
+Use auto offset adjustment	True
+Max offset adjustment [cm]	1
+Fitting Parameter a [cm]	7,8
+Fitting Parameter b [s-1]	-1,72E-05
+Fitting Parameter c [cm]	
+Fitting Parameter r2 [-]	0,9346
+Ks Total [cm/d]	1
+Ks Total [m/s]	9,21E-08
+Ks Soil [cm/d]	1
+Ks Soil [m/s]	7,94E-08
+Ks Soil normalized at 10,0 °C [cm/d]	0
+Ks Soil normalized at 10,0 °C [m/s]	5,76E-08
+
+DATA
+Date/Time	Runtime [s]	Pressure Head [cm]	Fitting [cm]	Temperature [°C]
+4/12/2015 8:51:09	453	0,00	7,795	7,795	22,060
+4/12/2015 8:53:23	921	134,47	7,537	7,777	22,050
+4/12/2015 9:21:12	218	1802,76	7,431	7,557	22,060
+4/12/2015 9:24:10	703	1981,25	7,302	7,534	22,060
+4/12/2015 10:02:18	687	4269,23	7,184	7,243	22,160
+4/12/2015 10:17:45	62	5195,61	7,082	7,128	22,230
+4/12/2015 10:42:05	296	6655,84	6,980	6,951	22,350
+4/12/2015 10:58:31	859	7642,41	6,834	6,834	22,430
+
